@@ -7,7 +7,7 @@
 
 Проверьте, что в списке устанавливаемых программ стоит галочка напротив пункта Git Bash Here 
 — это позволит открывать консоль с Git в любой папке.
-![alt-текст](C:\Users\Maxeldr\GIT rep\1.png)
+![alt-текст](https://pictures.s3.yandex.net/resources/S1_gal_1-3_1683900499.png)
 
 # Шпаргалка markdown
 
